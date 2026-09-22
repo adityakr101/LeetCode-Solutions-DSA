@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0258-add-digits](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,9 +21,14 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0867-transpose-matrix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
