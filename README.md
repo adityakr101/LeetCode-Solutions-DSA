@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
+| [3870-count-commas-in-range](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
