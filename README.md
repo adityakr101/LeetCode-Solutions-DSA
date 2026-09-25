@@ -12,6 +12,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0867-transpose-matrix](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -39,4 +40,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
