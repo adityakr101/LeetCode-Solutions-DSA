@@ -45,6 +45,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
