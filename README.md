@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Matrix
@@ -60,6 +61,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
