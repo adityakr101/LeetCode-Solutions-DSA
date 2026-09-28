@@ -13,6 +13,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0704-binary-search/) | Easy |
@@ -46,6 +47,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
