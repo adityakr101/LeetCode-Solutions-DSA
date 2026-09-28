@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0704-binary-search](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -66,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
