@@ -46,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0344-reverse-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0344-reverse-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
