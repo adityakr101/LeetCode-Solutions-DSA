@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0877-stone-game](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [2235-add-two-integers](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/2235-add-two-integers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
@@ -50,6 +52,7 @@
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0709-to-lower-case/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
