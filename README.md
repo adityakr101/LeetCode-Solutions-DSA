@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [0877-stone-game](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
+| [2235-add-two-integers](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/2235-add-two-integers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Array
