@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
