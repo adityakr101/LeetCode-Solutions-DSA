@@ -26,6 +26,7 @@
 | [0877-stone-game](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1929-concatenation-of-array](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@
 | [0258-add-digits](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0867-transpose-matrix](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
