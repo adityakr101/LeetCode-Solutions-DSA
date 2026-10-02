@@ -17,6 +17,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0136-single-number](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -112,4 +113,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0169-majority-element/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
