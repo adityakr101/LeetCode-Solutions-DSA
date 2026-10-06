@@ -123,4 +123,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0136-single-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
