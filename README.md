@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -81,6 +82,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0877-stone-game](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
