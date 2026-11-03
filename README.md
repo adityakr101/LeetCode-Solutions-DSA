@@ -13,6 +13,7 @@
 | [0877-stone-game](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [2235-add-two-integers](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/2235-add-two-integers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
