@@ -8,6 +8,7 @@ class Solution {
             if(hm.containsKey(target-x)){
                 ans[0]=hm.get(target-x);
                 ans[1]=i;
+                break;
             }
             else{
                 hm.put(x,i);
