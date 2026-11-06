@@ -64,6 +64,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0242-valid-anagram](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0709-to-lower-case/) | Easy |
@@ -75,12 +76,14 @@
 | [0013-roman-to-integer](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
