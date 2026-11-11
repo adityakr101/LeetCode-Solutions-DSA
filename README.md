@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0049-group-anagrams](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0169-majority-element/) | Easy |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0344-reverse-string/) | Easy |
@@ -74,6 +76,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -81,6 +84,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0242-valid-anagram/) | Easy |
