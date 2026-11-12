@@ -23,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -94,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0877-stone-game](https://github.com/adityakr101/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
